@@ -23,11 +23,11 @@ Developed and submitted as part of the Mobile Application Development and Big Da
 | Below 70% | F |
 
 ## Screenshots
-<img width="563" height="1081" alt="image" src="https://github.com/user-attachments/assets/0974efda-b886-44f6-965c-f274564118d3" />
+<img width="563" height="563" alt="image" src="https://github.com/user-attachments/assets/0974efda-b886-44f6-965c-f274564118d3" />
 
 *Figure 1:Screenshot shows that the program is validated to make sure that you insert value in the fields, the message is unobstructive but clearly alerts the user.*
 
-<img width="541" height="1115" alt="image" src="https://github.com/user-attachments/assets/ff5388ec-d344-4e3b-b633-7a79f48792c9" />
+<img width="541" height="563" alt="image" src="https://github.com/user-attachments/assets/ff5388ec-d344-4e3b-b633-7a79f48792c9" />
 
 *Figure 2: Sample screenshot of the program calculating and displaying the appropraite output*
 
